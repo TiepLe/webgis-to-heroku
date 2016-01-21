@@ -5,6 +5,6 @@
 </head>
 <body>
 <h1> Chào mừng đến với website của Tiệp! </h1>
- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=zR72hlxQJR5k.kCWyt4CKyYVA" width="640" height="480"></iframe>
+ <iframe src="https://www.google.com/maps/d/u/0/embed?mid=zR72hlxQJR5k.kCWyt4CKyYVA" width="840" height="780"></iframe>
 </body>
 </html>
