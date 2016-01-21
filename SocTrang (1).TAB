@@ -1,0 +1,14 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "soctrang (1).jpg"
+  Type "RASTER"
+  (1055,975) (196,440) Label "Pt 1",
+  (1055,95) (174,942) Label "Pt 2",
+  (10625,975) (1726,452) Label "Pt 3",
+  (1065,95) (1721,957) Label "Pt 4",
+  (0,0) (0,0) Label "Pt 5"
+  CoordSys Earth Projection 8, 104, "m", 105, 0, 0.9996, 500000, 0
+  Units "degree"
